@@ -5,5 +5,6 @@ public class HolaMundo {
         // Imprimir "Hola Mundo" en la consola
         System.out.println("Hola Mundo");
         //Actualizacion
+        
     }
 }
